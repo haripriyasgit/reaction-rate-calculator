@@ -19,11 +19,13 @@
 ## ▶️How to run
   * Install python
   * Install required library
-     '''python
+     '''bash
   * pip install matplotlib
+    '''
   * Run program
-     '''python
-    python reaction rate.py
+     '''bash
+    python reaction_rate.py
+    '''
 ## 📌Sample output 
    Displays reaction rate value and graph between concentraction vs time
    
